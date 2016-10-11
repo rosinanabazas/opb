@@ -1,0 +1,160 @@
+/*General*/
+
+body {
+  background-color: #F7F7F7;
+  color: #4A4A4A;
+  font-family: 'Rubik', sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+a {
+  opacity: 1;
+  text-decoration: none;
+}
+
+a:hover { opacity: 0.9; }
+
+h1, h2 {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}
+
+h1 {
+  color: white;
+  font-size: 4rem;
+  margin: 170px 0 10px 0;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+.line-separator {
+  background: #4A4A4A;
+  border-bottom: 1px solid #4A4A4A;
+  height: 1px;
+  margin: 20px auto 0 auto;
+  width: 100px;
+}
+
+/*Header*/
+
+header {
+  background: url("../img/hero.png") center;
+  background-size: cover;
+  height: 680px;
+  position: relative;
+  text-align: center;
+}
+
+nav {
+  background-color: black;
+  height: 80px;
+  padding: 0 40px;
+  /*position: fixed;*/
+}
+
+.nav-links a {
+  color: white;
+  font-size: 14px;
+  float: right;
+  padding: 17px 10px;
+  text-transform: uppercase;
+}
+
+.logo {
+  float: left;
+  padding-top: 11px;
+}
+
+header p {
+  color: white;
+  margin: 0 auto;
+  font-weight: 300;
+  width: 50%;
+}
+
+.arrow {
+  position: absolute;
+  bottom: 40px;
+}
+
+/*About us*/
+
+.about-us { margin: 100px 0; }
+.about-us img { width: 60px; }
+
+.about-us p {
+  font-weight: 300;
+  margin: 0 auto;
+  width: 70%;
+}
+
+/*How it works*/
+
+.how-it-works {
+  background: url("../img/how-it-works.png") center;
+  padding: 70px 0;
+}
+
+/*Services*/
+
+.services {
+  margin: 90px auto;
+  width: 80%;
+}
+
+.services p { font-weight: 300; }
+.services img { width: 60px; }
+.services h2 { font-size: 18px; }
+
+.event-item {
+  float: left;
+  width: 50%;
+}
+
+/*Pictures*/
+
+.pictures { display: inline-block; }
+.pictures img { margin-right: 15px; }
+
+.pictures .line-separator { margin: 70px auto; }
+
+/*Footer*/
+
+footer { font-weight: 300; }
+footer p { margin: 0; }
+
+.social-icons {
+  background-color: #333333;
+  color: #9B9B9B;
+  padding: 100px 0;
+}
+
+.small {
+  padding: 10px 0 20px 0;
+  font-size: 13px;
+}
+
+.social-icons img {
+  padding-right: 20px;
+  width: 40px;
+}
+
+.bottom-bar {
+  background-color: #2E2E2E;
+  height: 40px;
+  padding: 12px 0;
+}
+
+.bottom-bar a, .bottom-bar p {
+  color: #4D4B4B;
+  display: inline-block;
+  line-height: 40px;
+}
+
+.bottom-bar a::after {
+  content: "|";
+  padding: 0 10px;
+}
