@@ -55,6 +55,8 @@ nav {
   /*position: fixed;*/
 }
 
+.nav-links { line-height: 50px; }
+
 .nav-links a {
   color: white;
   font-size: 14px;
@@ -71,6 +73,7 @@ nav {
 header p {
   color: white;
   margin: 0 auto;
+  font-size: 18px;
   font-weight: 300;
   width: 50%;
 }
@@ -78,6 +81,7 @@ header p {
 .arrow {
   position: absolute;
   bottom: 40px;
+  right: 49.5%;
 }
 
 /*About us*/
@@ -87,8 +91,9 @@ header p {
 
 .about-us p {
   font-weight: 300;
+  line-height: 1.5;
   margin: 0 auto;
-  width: 70%;
+  width: 45%;
 }
 
 /*How it works*/
@@ -116,15 +121,39 @@ header p {
 
 /*Pictures*/
 
-.pictures { display: inline-block; }
+.pictures {
+  margin-bottom: 100px;
+  display: inline-block;
+}
+
 .pictures img { margin-right: 15px; }
 
 .pictures .line-separator { margin: 70px auto; }
 
+/*Beers*/
+
+.beers {
+  background-color: #333333;
+}
+
+.beers img {
+  width: 60%;
+  margin: 0 auto;
+  display: block;
+}
+
+.beers h2 {
+  color: white;
+  padding: 130px 0 50px 0;
+}
+
 /*Footer*/
 
 footer { font-weight: 300; }
-footer p { margin: 0; }
+footer p {
+  font-size: 20px;
+  margin: 0;
+}
 
 .social-icons {
   background-color: #333333;
@@ -132,12 +161,8 @@ footer p { margin: 0; }
   padding: 100px 0;
 }
 
-.small {
-  padding: 10px 0 20px 0;
-  font-size: 13px;
-}
-
 .social-icons img {
+  margin-top: 30px;
   padding-right: 20px;
   width: 40px;
 }
