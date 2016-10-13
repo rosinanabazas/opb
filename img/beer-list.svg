@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="1131px" height="716px" viewBox="0 0 1131 716" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1107px" height="716px" viewBox="0 0 1107 716" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
     <title>beers</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="beers">
+        <g id="beers" transform="translate(-3.000000, 0.000000)">
             <g id="objects">
-                <g id="Group-Copy-2" transform="translate(777.000000, 0.000000)">
+                <g id="Group-Copy-2" transform="translate(754.000000, 0.000000)">
                     <path d="M65.6,12.8 C62.2,12 59.5,13.4 57.2,15.4 C54.1,13.4 50.7,12 47.1,12.8 C42.8,13.7 40.3,16.3 37.7,19.1 C33.1,15.3 30.3,10.5 23,9.9 C16.2,9.4 6.2,10.7 2.6,17.7 C-0.6,24.1 -0.1,31.6 3.6,37.8 C6.7,43.1 10,44.6 14.4,45.3 C11.7,60 32.7,73.5 42.1,54 C43,52 43.5,49.9 43.9,47.7 C44.1,46.6 44.1,45.5 43.9,44.4 L43.9,43.4 C48.3,41.7 52.8,41.2 56.2,37.3 C58,35.3 58.5,34.5 59.5,32 C60.3,30 61.2,31.3 63.6,30.6 C67.9,29.4 70.9,27.9 72.5,23.8 C73,22.8 73.3,21.6 73.4,20.3 C73.7,16 68.9,13.6 65.6,12.8 L65.6,12.8 Z" id="Shape" fill="#FFFAF2"></path>
                     <path d="M56.6,64.3 C59.9,63.4 61.7,60.9 62.7,57.9 C66.3,58.2 70.1,57.7 72.8,55.3 C76.1,52.4 77.1,49 78,45.2 C83.9,46.3 88.6,49.2 95.3,46.1 C101.5,43.3 109.6,37.3 109.4,29.5 C109.2,22.4 105.1,16.1 98.9,12.4 C93.6,9.3 90,9.6 85.8,11.1 C81.1,-3.1 56.2,-4.8 57.3,16.9 C57.4,19.1 58.1,21.2 58.7,23.3 C59.1,24.3 59.6,25.3 60.3,26.2 C60.5,26.5 60.7,26.8 60.8,27.1 C57.8,30.7 54.1,33.3 53,38.4 C52.4,41 52.3,42 52.7,44.6 C53,46.7 51.6,46 49.8,47.8 C46.6,50.9 44.7,53.6 45.3,58 C45.4,59.1 45.6,60.3 46.2,61.5 C47.9,65.3 53.3,65.1 56.6,64.3 L56.6,64.3 Z" id="Shape" fill="#FFFAF2"></path>
                     <ellipse id="Oval" fill="#333333" opacity="0.05" cx="55.2" cy="247.2" rx="53.9" ry="10.9"></ellipse>
@@ -20,7 +20,7 @@
                         <path d="M23.4,92.9 C28.5,109.9 31.3,127.8 32.5,145.5 C33.2,155.1 32.9,167.5 32.9,174.2 C32.9,180.9 40.9,185 41.8,185 C41.8,183.7 41.9,171.9 41.9,170.6 C42.2,158.3 42.2,146 41.8,133.7 C41.5,123.4 41.2,113 40.1,102.8 C38.4,93.3 35.4,84.2 33,74.8 C29.8,61.9 28.2,48.9 29.3,35.6 C30.2,24.2 31.5,12.9 32.9,1.5 C25.6,2.1 18.6,3 12.5,4.2 L12.5,27.4 C12.5,37.1 12.2,46.8 13.1,56.5 C15.3,69.1 19.7,80.8 23.4,92.9 L23.4,92.9 Z" id="Shape" fill="#F0F9FF" opacity="0.2"></path>
                     </g>
                 </g>
-                <g id="Group" transform="translate(317.000000, 393.000000)">
+                <g id="Group" transform="translate(307.000000, 393.000000)">
                     <path d="M22.4,44.7 C25.4,45.6 27.9,44.5 30.1,42.7 C32.8,44.6 35.8,46 39.1,45.5 C43,44.9 45.4,42.7 47.8,40.2 C51.8,43.8 54.1,48.2 60.6,49.1 C66.7,49.9 75.7,49.1 79.2,43 C82.4,37.4 82.2,30.7 79.2,24.9 C76.6,20 73.7,18.5 69.8,17.7 C72.9,4.6 54.6,-8.4 45.2,8.7 C44.3,10.4 43.8,12.4 43.3,14.2 C43.1,15.2 43.1,16.2 43.2,17.2 L43.2,18.1 C39.2,19.4 35.1,19.7 31.9,23.1 C30.2,24.8 29.7,25.5 28.7,27.7 C27.9,29.5 27.2,28.3 24.9,28.8 C21,29.7 18.3,30.9 16.6,34.5 C16.1,35.4 15.8,36.4 15.6,37.6 C15.2,41.4 19.5,43.9 22.4,44.7 L22.4,44.7 Z" id="Shape" fill="#FFFAF2"></path>
                     <path d="M100.8,73.5 C103,71.3 103.2,68.5 102.6,65.8 C105.5,64.3 108.2,62.3 109.2,59.1 C110.5,55.3 109.6,52.2 108.6,48.9 C113.7,47.1 118.6,47.1 122.4,41.7 C125.9,36.7 129.5,28.3 125.6,22.3 C122.1,16.9 116.1,13.9 109.6,13.9 C104.1,13.9 101.4,15.8 98.9,18.9 C88.7,10.1 68.7,20.2 79.5,36.5 C80.6,38.1 82.1,39.5 83.5,40.8 C84.3,41.4 85.1,41.9 86.1,42.3 C86.4,42.5 86.7,42.6 86.9,42.7 C86.2,46.9 84.6,50.6 86,55 C86.7,57.3 87.1,58.1 88.6,60 C89.8,61.5 88.4,61.6 87.8,63.9 C86.8,67.8 86.6,70.8 89,73.9 C89.6,74.7 90.3,75.5 91.3,76.2 C94.5,78.3 98.7,75.6 100.8,73.5 L100.8,73.5 Z" id="Shape" fill="#FFFAF2"></path>
                     <ellipse id="Oval" fill="#333333" opacity="0.05" cx="69" cy="231.8" rx="53.9" ry="10.9"></ellipse>
@@ -34,7 +34,7 @@
                     </g>
                     <g transform="translate(0.672900, 292.069500)"></g>
                 </g>
-                <g id="Group" transform="translate(962.000000, 15.000000)">
+                <g id="Group" transform="translate(939.000000, 15.000000)">
                     <path d="M116.1,14.1 C110.5,13 105.7,14 102,16.3 C101,14 99,12.1 95.8,11.3 C89.7,9.8 85.5,13.7 84.4,18.4 C65.3,21.9 60.4,53.7 83.3,59.4 C89.7,61 95.2,59.8 99.3,56.9 C100.2,59.7 102.5,62.1 106.3,62.9 C112.4,64.1 116.4,59.9 117.3,55.1 C136.2,50.5 139.3,18.5 116.1,14.1 L116.1,14.1 Z" id="Shape" fill="#FFFAF2"></path>
                     <ellipse id="Oval" fill="#333333" opacity="0.05" cx="79" cy="223.1" rx="78.8" ry="16.9"></ellipse>
                     <g transform="translate(9.000000, 38.000000)" id="Shape">
@@ -52,7 +52,7 @@
                     <path d="M54.2,0.6 C15.1,0.6 9.7,52.6 37.8,67.3 C37.4,75.7 42.7,84.4 53.5,84.4 C64,84.4 69.3,76.2 69.2,68.1 C99,54.4 94,0.6 54.2,0.6 L54.2,0.6 Z" id="Shape" fill="#FFFAF2"></path>
                     <path d="M52.5,107.2 C42,107.2 42,123.5 52.5,123.5 C62.9,123.4 62.9,107.2 52.5,107.2 L52.5,107.2 Z" id="Shape" fill="#FFFAF2"></path>
                 </g>
-                <g id="Group-Copy" transform="translate(870.000000, 393.000000)">
+                <g id="Group-Copy" transform="translate(897.000000, 393.000000)">
                     <path d="M116.1,14.1 C110.5,13 105.7,14 102,16.3 C101,14 99,12.1 95.8,11.3 C89.7,9.8 85.5,13.7 84.4,18.4 C65.3,21.9 60.4,53.7 83.3,59.4 C89.7,61 95.2,59.8 99.3,56.9 C100.2,59.7 102.5,62.1 106.3,62.9 C112.4,64.1 116.4,59.9 117.3,55.1 C136.2,50.5 139.3,18.5 116.1,14.1 L116.1,14.1 Z" id="Shape" fill="#FFFAF2"></path>
                     <ellipse id="Oval" fill="#333333" opacity="0.05" cx="79" cy="223.1" rx="78.8" ry="16.9"></ellipse>
                     <g id="Group" transform="translate(9.000000, 38.000000)">
@@ -70,7 +70,7 @@
                     <path d="M54.2,0.6 C15.1,0.6 9.7,52.6 37.8,67.3 C37.4,75.7 42.7,84.4 53.5,84.4 C64,84.4 69.3,76.2 69.2,68.1 C99,54.4 94,0.6 54.2,0.6 L54.2,0.6 Z" id="Shape" fill="#FFFAF2"></path>
                     <path d="M52.5,107.2 C42,107.2 42,123.5 52.5,123.5 C62.9,123.4 62.9,107.2 52.5,107.2 L52.5,107.2 Z" id="Shape" fill="#FFFAF2"></path>
                 </g>
-                <g id="Group" transform="translate(518.000000, 386.000000)">
+                <g id="Group" transform="translate(515.000000, 386.000000)">
                     <ellipse id="Oval" fill="#333333" opacity="0.05" cx="66.8" cy="241.3" rx="53.9" ry="10.9"></ellipse>
                     <g transform="translate(12.000000, 21.000000)" id="Shape">
                         <path d="M108.6,7.1 C83.7,-1.7 25.9,-1.7 1,7.1 C1,7.1 -0.6,55.7 6.2,74.5 C13,93.4 21,136.3 19,171.6 C17,206.9 4.6,218.6 24.2,223.8 C43.9,229 65.5,229 85.2,223.8 C104.9,218.6 92.4,206.9 90.4,171.6 C88.4,136.3 96.4,93.3 103.2,74.5 C110.2,55.7 108.6,7.1 108.6,7.1 L108.6,7.1 Z" fill="#F0F9FF"></path>
@@ -83,7 +83,7 @@
                     <g transform="translate(0.000500, 267.069500)"></g>
                     <path d="M99.9,5.8 C83.8,-1.1 64.7,-7.81597009e-14 47.7,2.8 C33.6,5.1 15.8,12.2 12.1,27.1 C9.1,39.6 13.2,60.2 21.9,70.1 C33.1,82.9 49.7,82.5 63.9,74.7 C70.4,71.1 75.1,64.9 79.1,59 C82.9,53.5 86.8,41.1 94.4,40.4 C103.6,39.6 119.5,38.5 121.5,27.3 C121.6,26.8 121.6,26.4 121.6,26 C119.9,13.5 107.9,9.3 99.9,5.8 L99.9,5.8 Z" id="Shape" fill="#FFFAF2"></path>
                 </g>
-                <g id="Group" transform="translate(102.000000, 417.000000)">
+                <g id="Group" transform="translate(58.000000, 417.000000)">
                     <ellipse id="Oval" fill="#333333" opacity="0.05" cx="79.3" cy="204.3" rx="78.8" ry="16.9"></ellipse>
                     <g transform="translate(13.000000, 20.000000)" id="Shape">
                         <path d="M142.4,28.4 C136.3,25.6 129.3,24.1 122.7,23.3 L122.7,39.9 C128.8,40 134.3,40.7 135.5,42.7 C138.4,47.9 147.8,115.2 139.2,121.8 C134.5,125.4 129.4,129.2 122.8,131.5 C122.8,131.5 123.5,148.6 124.2,148.4 C135.1,145 158.1,138.4 158.1,117.5 C158.2,96.6 161.1,37 142.4,28.4 L142.4,28.4 Z" fill="#F0F9FF"></path>
@@ -98,7 +98,7 @@
                     </g>
                     <path d="M132,12.9 C125.4,4.6 110.2,2.8 100.3,1.6 C86.3,-0.1 71.2,1.4 57.3,3 C44.2,4.6 33.5,5.5 23,14.1 C21.7,15.2 21.1,16.5 21.1,17.7 C19.7,20.1 19.9,22.8 23.2,25.4 C30.8,31.3 40.7,36 50.5,37.4 C59.9,42.1 61.2,54.5 58,64.7 C57.2,67.3 55.8,72 57.2,74.7 C58.5,77.2 61.9,79 64.8,78.2 C73.7,75.7 70.3,61.5 69,55.2 C68.1,50.6 65.5,42.4 72.5,41.5 C75.1,41.2 78,42 80.6,42.1 C82.5,42.2 84.3,41.9 86.1,41.4 C87.6,41.3 89.2,41.2 90.8,40.9 C97.2,39.8 102.6,34.5 109.1,32.9 C114.4,31.6 119.9,31.1 124.9,28.6 C130.5,25.7 137.2,19.4 132,12.9 L132,12.9 Z" id="Shape" fill="#FFFDE6"></path>
                 </g>
-                <g id="Group" transform="translate(407.000000, 18.000000)">
+                <g id="Group" transform="translate(384.000000, 18.000000)">
                     <ellipse id="Oval" fill="#333333" opacity="0.05" cx="60.6" cy="229.2" rx="53.9" ry="10.9"></ellipse>
                     <g transform="translate(0.000000, 13.000000)" id="Shape">
                         <path d="M118.4,107.6 C127.6,67.1 101.9,2.1 101.9,2.1 C101.9,2.1 87.1,0.1 60.6,0.1 C34.1,0.1 19.3,2.1 19.3,2.1 C19.3,2.1 -6.4,67.1 2.8,107.6 C12,148.1 48.2,161.4 48.2,161.4 C48.2,161.4 51.8,178.3 51.8,195.1 C51.8,212 11.7,210.4 14.5,216 C17.3,221.6 60.7,222.4 60.7,222.4 C60.7,222.4 104,221.6 106.9,216 C109.7,210.4 69.6,212 69.6,195.1 C69.6,178.2 73.2,161.4 73.2,161.4 C73.2,161.4 109.2,148.2 118.4,107.6 L118.4,107.6 Z" fill="#F0F9FF"></path>
@@ -110,8 +110,7 @@
                     </g>
                     <path d="M100.7,9.4 C95.8,3.3 84.7,2 77.4,1.1 C67.1,-0.1 56,0.9 45.8,2.1 C36.2,3.3 28.3,3.9 20.6,10.3 C19.6,11.1 19.2,12 19.2,13 C18.2,14.7 18.3,16.7 20.8,18.6 C26.4,22.9 33.6,26.4 40.8,27.4 C47.7,30.8 48.7,39.9 46.3,47.4 C45.7,49.3 44.7,52.8 45.7,54.7 C46.7,56.5 49.2,57.9 51.3,57.3 C57.8,55.5 55.3,45.1 54.4,40.4 C53.7,37 51.9,31 56.9,30.3 C58.8,30.1 60.9,30.6 62.9,30.7 C64.3,30.8 65.6,30.5 66.9,30.2 C68,30.2 69.2,30 70.3,29.8 C75,29 78.9,25.1 83.7,23.9 C87.6,22.9 91.7,22.6 95.3,20.8 C99.6,18.8 104.5,14.2 100.7,9.4 L100.7,9.4 Z" id="Shape" fill="#FFFAF2"></path>
                 </g>
-                <g id="Group" transform="translate(30.000000, 35.000000)">
-                    <ellipse id="Oval" fill="#333333" opacity="0.05" cx="71.8" cy="212.2" rx="53.9" ry="10.9"></ellipse>
+                <g id="Group" transform="translate(7.000000, 35.000000)">
                     <g transform="translate(3.400400, 281.585300)"></g>
                     <g id="1"></g>
                     <g id="1-copy" transform="translate(565.000000, 0.000000)">
@@ -127,7 +126,7 @@
                         <path d="M59.3,5.4 C56.3,4.5 53.8,5.6 51.6,7.4 C48.9,5.5 45.9,4.1 42.6,4.6 C38.7,5.2 36.3,7.4 33.9,9.9 C29.9,6.3 27.6,1.9 21.1,1 C15,0.2 6,1 2.5,7.1 C-0.7,12.7 -0.5,19.4 2.5,25.2 C5.1,30.1 8,31.6 11.9,32.4 C8.8,45.5 27.1,58.5 36.5,41.4 C37.4,39.7 37.9,37.7 38.4,35.9 C38.6,34.9 38.6,33.9 38.5,32.9 L38.5,32 C42.5,30.7 46.6,30.4 49.8,27 C51.5,25.3 52,24.6 53,22.4 C53.8,20.6 54.5,21.8 56.8,21.3 C60.7,20.4 63.4,19.2 65.1,15.6 C65.6,14.7 65.9,13.7 66.1,12.5 C66.4,8.7 62.2,6.2 59.3,5.4 L59.3,5.4 Z" id="Shape" fill="#FFFAF2"></path>
                     </g>
                 </g>
-                <g id="Group" transform="translate(699.000000, 397.000000)">
+                <g id="Group" transform="translate(696.000000, 397.000000)">
                     <path d="M105.7,8.6 C95.1,2.1 82.1,4.9 79,17.6 C77.7,22.9 77.7,29.6 81.3,34 C82.3,35.2 83.2,36.2 84.3,37 C84,37.9 83.8,38.9 83.7,39.9 C83.3,42.8 84.6,46.8 85.9,49.3 C86.2,49.9 87.5,51.7 88.8,53.5 C88.5,54.4 88.3,55.3 88.3,56.3 C88.2,61.2 91,64.5 96,64.2 C98.1,64.1 99.8,62.9 100.4,60.9 C101.3,58.1 100.5,55.8 99.2,53.6 C99.6,53.2 100,52.9 100.5,52.6 C102.6,50.9 104.1,49.1 105.5,46.7 C107.3,43.3 106.3,38.8 104,35.8 C107.9,32.8 110.8,29.7 111,24.2 C111.2,18.6 111.3,12.1 105.7,8.6 L105.7,8.6 Z" id="Shape" fill="#FFFAF2"></path>
                     <ellipse id="Oval" fill="#333333" opacity="0.05" cx="70" cy="230.3" rx="53.9" ry="10.9"></ellipse>
                     <g transform="translate(10.000000, 14.000000)" id="Shape">
@@ -142,7 +141,7 @@
                     <path d="M85.5,5.5 C82.5,4.6 80,5.7 77.8,7.4 C75.2,5.5 72.1,4 68.8,4.5 C64.9,5.1 62.5,7.3 60,9.7 C56.1,6 53.8,1.6 47.3,0.7 C41.2,-0.1 32.2,0.5 28.6,6.6 C25.3,12.1 25.4,18.9 28.4,24.7 C30.9,29.6 33.8,31.1 37.7,32 C34.5,45.1 52.6,58.3 62.2,41.3 C63.2,39.6 63.7,37.7 64.2,35.8 C64.4,34.8 64.5,33.8 64.3,32.8 L64.3,31.9 C68.3,30.6 72.4,30.4 75.7,27.1 C77.4,25.4 77.9,24.7 78.9,22.5 C79.7,20.7 80.4,21.9 82.7,21.4 C86.6,20.5 89.4,19.4 91,15.8 C91.5,14.9 91.8,13.9 92,12.7 C92.6,8.9 88.4,6.4 85.5,5.5 L85.5,5.5 Z" id="Shape" fill="#FFFAF2"></path>
                 </g>
                 <g id="Group-2">
-                    <g id="Group" transform="translate(229.000000, 0.000000)">
+                    <g id="Group" transform="translate(206.000000, 0.000000)">
                         <path d="M65.6,12.8 C62.2,12 59.5,13.4 57.2,15.4 C54.1,13.4 50.7,12 47.1,12.8 C42.8,13.7 40.3,16.3 37.7,19.1 C33.1,15.3 30.3,10.5 23,9.9 C16.2,9.4 6.2,10.7 2.6,17.7 C-0.6,24.1 -0.1,31.6 3.6,37.8 C6.7,43.1 10,44.6 14.4,45.3 C11.7,60 32.7,73.5 42.1,54 C43,52 43.5,49.9 43.9,47.7 C44.1,46.6 44.1,45.5 43.9,44.4 L43.9,43.4 C48.3,41.7 52.8,41.2 56.2,37.3 C58,35.3 58.5,34.5 59.5,32 C60.3,30 61.2,31.3 63.6,30.6 C67.9,29.4 70.9,27.9 72.5,23.8 C73,22.8 73.3,21.6 73.4,20.3 C73.7,16 68.9,13.6 65.6,12.8 L65.6,12.8 Z" id="Shape" fill="#FFFAF2"></path>
                         <path d="M56.6,64.3 C59.9,63.4 61.7,60.9 62.7,57.9 C66.3,58.2 70.1,57.7 72.8,55.3 C76.1,52.4 77.1,49 78,45.2 C83.9,46.3 88.6,49.2 95.3,46.1 C101.5,43.3 109.6,37.3 109.4,29.5 C109.2,22.4 105.1,16.1 98.9,12.4 C93.6,9.3 90,9.6 85.8,11.1 C81.1,-3.1 56.2,-4.8 57.3,16.9 C57.4,19.1 58.1,21.2 58.7,23.3 C59.1,24.3 59.6,25.3 60.3,26.2 C60.5,26.5 60.7,26.8 60.8,27.1 C57.8,30.7 54.1,33.3 53,38.4 C52.4,41 52.3,42 52.7,44.6 C53,46.7 51.6,46 49.8,47.8 C46.6,50.9 44.7,53.6 45.3,58 C45.4,59.1 45.6,60.3 46.2,61.5 C47.9,65.3 53.3,65.1 56.6,64.3 L56.6,64.3 Z" id="Shape" fill="#FFFAF2"></path>
                         <ellipse id="Oval" fill="#333333" opacity="0.05" cx="55.2" cy="247.2" rx="53.9" ry="10.9"></ellipse>
@@ -155,7 +154,17 @@
                             <path d="M23.4,92.9 C28.5,109.9 31.3,127.8 32.5,145.5 C33.2,155.1 32.9,167.5 32.9,174.2 C32.9,180.9 40.9,185 41.8,185 C41.8,183.7 41.9,171.9 41.9,170.6 C42.2,158.3 42.2,146 41.8,133.7 C41.5,123.4 41.2,113 40.1,102.8 C38.4,93.3 35.4,84.2 33,74.8 C29.8,61.9 28.2,48.9 29.3,35.6 C30.2,24.2 31.5,12.9 32.9,1.5 C25.6,2.1 18.6,3 12.5,4.2 L12.5,27.4 C12.5,37.1 12.2,46.8 13.1,56.5 C15.3,69.1 19.7,80.8 23.4,92.9 L23.4,92.9 Z" fill="#F0F9FF" opacity="0.2"></path>
                         </g>
                     </g>
-                    <g id="Group" transform="translate(32.000000, 51.000000)">
+                    <text id="Vol.-Alc.-4,9%" fill="#9B9B9B" font-family="Rubik-Regular, Rubik" font-size="22" font-weight="normal">
+                        <tspan x="2.747" y="331">Vol. Alc. 4,9% </tspan>
+                    </text>
+                    <text id="Weisse" font-family="Rubik-Medium, Rubik" font-size="32" font-weight="400" fill="#FFFFFF">
+                        <tspan x="15.772" y="302">Weisse</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="2ND" transform="translate(8.000000, 35.000000)">
+                <g id="Group-3">
+                    <g id="Group" transform="translate(2.000000, 16.000000)">
                         <path d="M109,0.2 L54.8,0.2 L0.6,0.2 C-1,35.9 13,187.2 15.9,193.2 C18.7,199.2 54.8,199.2 54.8,199.2 C54.8,199.2 90.9,199.2 93.7,193.2 C96.5,187.2 110.6,35.9 109,0.2 L109,0.2 Z" id="Shape" fill="#F0F9FF"></path>
                         <path d="M23.4,184.8 L86.2,184.8 C88,171.7 97,142.7 100.1,106.6 C104.2,58.2 106.4,20.1 106.1,3.2 L3.5,3.2 C3.2,20.1 5.4,58.1 9.5,106.6 C12.5,142.7 21.6,171.7 23.4,184.8 L23.4,184.8 Z" id="Shape" fill="#F8E890"></path>
                         <path d="M105.1,35.8 C105.8,21.6 106.2,10.4 106,3.1 L3.5,3.1 C3.4,10.4 3.7,21.5 4.4,35.8 L105.1,35.8 L105.1,35.8 Z" id="Shape" fill="#FBF7CA"></path>
@@ -163,78 +172,71 @@
                         <path d="M54.8,177.3 L44.6,0.1 L10.2,0.1 C10.2,0.1 13.8,95.4 19.2,136.3 C24.7,177.3 54.8,177.3 54.8,177.3 L54.8,177.3 Z" id="Shape" fill="#F0F9FF" opacity="0.2"></path>
                         <path d="M104.5,0.2 L100.2,0.2 C102.6,17.5 88.2,153.3 80.4,170.8 C75.9,180.9 65.2,188.2 55.2,191.1 C44.3,194.2 32.5,192.6 22.7,186.6 C19.3,184.5 16.2,181.9 13.5,179 C14.4,187.1 15.2,192.2 15.7,193.2 C18.4,199.2 52.8,199.2 52.8,199.2 C52.8,199.2 87.2,199.2 89.9,193.2 C92.7,187.2 106,35.9 104.5,0.2 L104.5,0.2 Z" id="Shape" fill="#F2F2F2"></path>
                     </g>
-                    <path d="M137.9,42.2 C127.2,35.9 114.3,38.8 111.3,51.5 C110,56.8 110.2,63.5 113.8,67.9 C114.8,69.1 115.7,70 116.8,70.9 C116.5,71.8 116.4,72.8 116.3,73.8 C116,76.7 117.3,80.7 118.6,83.2 C118.9,83.8 120.2,85.5 121.5,87.3 C121.2,88.2 121,89.1 121,90.1 C120.9,95 123.8,98.3 128.8,98 C130.9,97.9 132.5,96.7 133.2,94.7 C134.1,91.9 133.2,89.6 131.9,87.4 C132.3,87 132.7,86.7 133.2,86.4 C135.3,84.6 136.8,82.8 138.1,80.4 C139.9,77 138.9,72.5 136.5,69.6 C140.4,66.6 143.2,63.4 143.4,57.9 C143.5,52.1 143.5,45.5 137.9,42.2 L137.9,42.2 Z" id="Shape" fill="#FFFAF2"></path>
-                    <path d="M89.3,40.4 C86.3,39.5 83.8,40.6 81.6,42.4 C78.9,40.5 75.9,39.1 72.6,39.6 C68.7,40.2 66.3,42.4 63.9,44.9 C59.9,41.3 57.6,36.9 51.1,36 C45,35.2 36,36 32.5,42.1 C29.3,47.7 29.5,54.4 32.5,60.2 C35.1,65.1 38,66.6 41.9,67.4 C38.8,80.5 57.1,93.5 66.5,76.4 C67.4,74.7 67.9,72.7 68.4,70.9 C68.6,69.9 68.6,68.9 68.5,67.9 L68.5,67 C72.5,65.7 76.6,65.4 79.8,62 C81.5,60.3 82,59.6 83,57.4 C83.8,55.6 84.5,56.8 86.8,56.3 C90.7,55.4 93.4,54.2 95.1,50.6 C95.6,49.7 95.9,48.7 96.1,47.5 C96.4,43.7 92.2,41.2 89.3,40.4 L89.3,40.4 Z" id="Shape" fill="#FFFAF2"></path>
-                    <text id="Graduación-4,9%" fill="#9B9B9B" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal">
-                        <tspan x="21.432" y="331">Graduación 4,9% </tspan>
-                    </text>
-                    <text id="Weisse-(Trigo)" font-family="Montserrat-Regular, Montserrat" font-size="25" font-weight="normal" fill="#FFFFFF">
-                        <tspan x="0.225" y="302">Weisse (Trigo)</tspan>
-                    </text>
+                    <path d="M107.9,7.2 C97.2,0.9 84.3,3.8 81.3,16.5 C80,21.8 80.2,28.5 83.8,32.9 C84.8,34.1 85.7,35 86.8,35.9 C86.5,36.8 86.4,37.8 86.3,38.8 C86,41.7 87.3,45.7 88.6,48.2 C88.9,48.8 90.2,50.5 91.5,52.3 C91.2,53.2 91,54.1 91,55.1 C90.9,60 93.8,63.3 98.8,63 C100.9,62.9 102.5,61.7 103.2,59.7 C104.1,56.9 103.2,54.6 101.9,52.4 C102.3,52 102.7,51.7 103.2,51.4 C105.3,49.6 106.8,47.8 108.1,45.4 C109.9,42 108.9,37.5 106.5,34.6 C110.4,31.6 113.2,28.4 113.4,22.9 C113.5,17.1 113.5,10.5 107.9,7.2 L107.9,7.2 Z" id="Shape" fill="#FFFAF2"></path>
+                    <path d="M59.3,5.4 C56.3,4.5 53.8,5.6 51.6,7.4 C48.9,5.5 45.9,4.1 42.6,4.6 C38.7,5.2 36.3,7.4 33.9,9.9 C29.9,6.3 27.6,1.9 21.1,1 C15,0.2 6,1 2.5,7.1 C-0.7,12.7 -0.5,19.4 2.5,25.2 C5.1,30.1 8,31.6 11.9,32.4 C8.8,45.5 27.1,58.5 36.5,41.4 C37.4,39.7 37.9,37.7 38.4,35.9 C38.6,34.9 38.6,33.9 38.5,32.9 L38.5,32 C42.5,30.7 46.6,30.4 49.8,27 C51.5,25.3 52,24.6 53,22.4 C53.8,20.6 54.5,21.8 56.8,21.3 C60.7,20.4 63.4,19.2 65.1,15.6 C65.6,14.7 65.9,13.7 66.1,12.5 C66.4,8.7 62.2,6.2 59.3,5.4 L59.3,5.4 Z" id="Shape" fill="#FFFAF2"></path>
+                    <ellipse id="Oval" fill="#333333" opacity="0.05" cx="67.3" cy="212.2" rx="53.4" ry="10.9"></ellipse>
                 </g>
-            </g>
-            <g id="2ND" transform="translate(113.000000, 661.000000)" font-family="Montserrat-Regular, Montserrat" font-weight="normal">
-                <text id="Graduación-5,6%" fill="#9B9B9B" font-size="16">
-                    <tspan x="202.176" y="53">Graduación  5,6%</tspan>
+                <text id="Vol.-Alc.-5,6%" fill="#9B9B9B" font-family="Rubik-Regular, Rubik" font-size="21" font-weight="normal">
+                    <tspan x="306.077" y="679">Vol. Alc.  5,6%</tspan>
                 </text>
-                <text id="Graduación-6,9%" fill="#9B9B9B" font-size="16">
-                    <tspan x="411.048" y="53">Graduación 6,9%</tspan>
+                <text id="Vol.-Alc.-6,9%" fill="#9B9B9B" font-family="Rubik-Regular, Rubik" font-size="21" font-weight="normal">
+                    <tspan x="509.7585" y="679">Vol. Alc. 6,9%</tspan>
                 </text>
-                <text id="Graduación-9,1%" fill="#9B9B9B" font-size="16">
-                    <tspan x="776.46" y="53">Graduación 9,1%</tspan>
+                <text id="Vol.-Alc.-9,1%" fill="#9B9B9B" font-family="Rubik-Regular, Rubik" font-size="21" font-weight="normal">
+                    <tspan x="911.0305" y="679">Vol. Alc. 9,1%</tspan>
                 </text>
-                <text id="Graduación-6,1%" fill="#9B9B9B" font-size="16">
-                    <tspan x="591.452" y="53">Graduación 6,1%</tspan>
+                <text id="Vol.-Alc.-6,1%" fill="#9B9B9B" font-family="Rubik-Regular, Rubik" font-size="21" font-weight="normal">
+                    <tspan x="696.159" y="679">Vol. Alc. 6,1%</tspan>
                 </text>
-                <text id="Graduación-5,0%" fill="#9B9B9B" font-size="16">
-                    <tspan x="0.324" y="53">Graduación 5,0%</tspan>
+                <text id="Vol.-Alc.-5,0%" fill="#9B9B9B" font-family="Rubik-Regular, Rubik" font-size="21" font-weight="normal">
+                    <tspan x="65.429" y="679">Vol. Alc. 5,0%</tspan>
                 </text>
-                <text id="Irish-Red" font-size="25" fill="#FFFFFF">
-                    <tspan x="12.1625" y="24">Irish Red</tspan>
+                <text id="Irish-Red" font-family="Rubik-Medium, Rubik" font-size="32" font-weight="400" fill="#FFFFFF">
+                    <tspan x="62.284" y="650">Irish Red</tspan>
                 </text>
-                <text id="Dark-Strong-Ale" font-size="25" fill="#FFFFFF">
-                    <tspan x="742.2" y="24">Dark Strong Ale</tspan>
+                <text id="Dark-Strong-Ale" font-family="Rubik-Medium, Rubik" font-size="32" font-weight="400" fill="#FFFFFF">
+                    <tspan x="850.168" y="650">Dark Strong Ale</tspan>
                 </text>
-                <text id="Pumpkin-Ale" font-size="25" fill="#FFFFFF">
-                    <tspan x="190.1875" y="24">Pumpkin Ale</tspan>
+                <text id="Pumpkin-Ale" font-family="Rubik-Medium, Rubik" font-size="32" font-weight="400" fill="#FFFFFF">
+                    <tspan x="276.388" y="650">Pumpkin Ale</tspan>
                 </text>
-                <text id="Dubbel" font-size="25" fill="#FFFFFF">
-                    <tspan x="432.2" y="24">Dubbel</tspan>
+                <text id="Dubbel" font-family="Rubik-Medium, Rubik" font-size="32" font-weight="400" fill="#FFFFFF">
+                    <tspan x="518.68" y="650">Dubbel</tspan>
                 </text>
-                <text id="Stout" font-size="25" fill="#FFFFFF">
-                    <tspan x="622.15" y="24">Stout</tspan>
+                <text id="Stout" font-family="Rubik-Medium, Rubik" font-size="32" font-weight="400" fill="#FFFFFF">
+                    <tspan x="713.788" y="650">Stout</tspan>
                 </text>
             </g>
-            <text id="Graduación-5,0%" fill="#9B9B9B" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal">
-                <tspan x="221.25525" y="331">Graduación 5,0%</tspan>
+            <text id="Vol.-Alc.-5,0%" fill="#9B9B9B" font-family="Rubik-Regular, Rubik" font-size="22" font-weight="normal">
+                <tspan x="198.30925" y="331">Vol. Alc. 5,0%</tspan>
             </text>
-            <text id="Graduación-5,0%" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" fill="#9B9B9B">
-                <tspan x="409.324" y="331">Graduación 5,0%</tspan>
+            <text id="Vol.-Alc.-5,0%" font-family="Rubik-Regular, Rubik" font-size="22" font-weight="normal" fill="#9B9B9B">
+                <tspan x="386.378" y="331">Vol. Alc. 5,0%</tspan>
             </text>
-            <text id="Graduación-5,6%" fill="#9B9B9B" font-family="Rubik-Regular, Rubik" font-size="16" font-weight="normal">
-                <tspan x="980.068" y="331">Graduación 5,6%</tspan>
+            <text id="Vol.-Alc.-5,6%" fill="#9B9B9B" font-family="Rubik-Regular, Rubik" font-size="22" font-weight="normal">
+                <tspan x="952.598" y="331">Vol. Alc. 5,6%</tspan>
             </text>
-            <text id="Graduación-5,0%" fill="#9B9B9B" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal">
-                <tspan x="769.25525" y="331">Graduación 5,0%</tspan>
+            <text id="Vol.-Alc.-5,0%" fill="#9B9B9B" font-family="Rubik-Regular, Rubik" font-size="22" font-weight="normal">
+                <tspan x="746.30925" y="331">Vol. Alc. 5,0%</tspan>
             </text>
-            <text id="Graduación-5,0%" fill="#9B9B9B" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal">
-                <tspan x="587.324" y="331">Graduación 5,0%</tspan>
+            <text id="Vol.-Alc.-5,0%" fill="#9B9B9B" font-family="Rubik-Regular, Rubik" font-size="22" font-weight="normal">
+                <tspan x="564.378" y="331">Vol. Alc. 5,0%</tspan>
             </text>
-            <text id="IPA" font-family="Montserrat-Regular, Montserrat" font-size="25" font-weight="normal" fill="#FFFFFF">
-                <tspan x="628.75" y="302">IPA </tspan>
+            <text id="IPA" font-family="Rubik-Medium, Rubik" font-size="32" font-weight="400" fill="#FFFFFF">
+                <tspan x="601.624" y="302">IPA </tspan>
             </text>
-            <text id="APA" font-family="Montserrat-Regular, Montserrat" font-size="25" font-weight="normal" fill="#FFFFFF">
-                <tspan x="810.375" y="302">APA</tspan>
+            <text id="APA" font-family="Rubik-Medium, Rubik" font-size="32" font-weight="400" fill="#FFFFFF">
+                <tspan x="781.6" y="302">APA</tspan>
             </text>
-            <g id="Group" transform="translate(448.810900, 277.585300)"></g>
-            <text id="EPA" fill="#FFFFFF" font-family="Montserrat-Regular, Montserrat" font-size="25" font-weight="normal">
-                <tspan x="449.475" y="302">EPA</tspan>
+            <g id="Group" transform="translate(425.810900, 277.585300)"></g>
+            <text id="EPA" fill="#FFFFFF" font-family="Rubik-Medium, Rubik" font-size="32" font-weight="400">
+                <tspan x="420.992" y="302">EPA</tspan>
             </text>
-            <text id="Scottish-Ale" font-family="Rubik-Regular, Rubik" font-size="25" font-weight="normal" fill="#FFFFFF">
-                <tspan x="970.1" y="301">Scottish Ale</tspan>
+            <text id="Scottish-Ale" font-family="Rubik-Medium, Rubik" font-size="32" font-weight="400" fill="#FFFFFF">
+                <tspan x="923.416" y="301">Scottish Ale</tspan>
             </text>
-            <text id="Blonde-Ale" font-family="Montserrat-Regular, Montserrat" font-size="25" font-weight="normal" fill="#FFFFFF">
-                <tspan x="220.05" y="302">Blonde Ale</tspan>
+            <text id="Blonde-Ale" font-family="Rubik-Medium, Rubik" font-size="32" font-weight="400" fill="#FFFFFF">
+                <tspan x="183.724" y="302">Blonde Ale</tspan>
             </text>
         </g>
     </g>
