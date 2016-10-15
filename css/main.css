@@ -26,13 +26,9 @@ h1 {
   margin: 225px 0 10px 0;
 }
 
-h2 {
-  font-size: 2rem;
-}
+h2 { font-size: 2rem; }
 
-p {
-  line-height: 1.5;
-}
+p { line-height: 1.5; }
 
 .line-separator {
   background: #4A4A4A;
@@ -42,47 +38,74 @@ p {
   width: 100px;
 }
 
-/*Header*/
+/*Nav Bar*/
 
-header {
-  background: url("../img/hero.png") center no-repeat;
-  background-size: cover;
-  height: 680px;
-  position: relative;
-  overflow: auto;
-  text-align: center;
-  background-attachment: fixed;
-}
-
-nav {
-  background-color: black;
-  height: 80px;
-  padding: 0 40px;
+.fixed-nav-bar {
   position: fixed;
-  width: 95%;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 80px;
+  background-color: black;
 }
 
-.nav-links { line-height: 50px; }
+.fixed-nav-bar li, .fixed-nav-bar a {
+  height: 80px;
+  line-height: 80px;
+}
 
-.nav-links a {
-  color: white;
-  font-size: 14px;
+.menu {
+  height: 80px;
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.menu a, .menu a:visited { color: #ffffff; }
+
+.menu a:hover, .menu a:target { color: #ebebeb; }
+
+.menu-items {
+  display: inline-block;
   float: right;
-  padding: 17px 10px;
-  text-transform: uppercase;
+  margin: 0;
 }
 
 .logo {
+  display: inline-block;
   float: left;
-  padding-top: 11px;
 }
 
-header p {
-  color: white;
-  margin: 0 auto;
-  font-size: 18px;
-  font-weight: 300;
-  width: 50%;
+.logo img { vertical-align: middle; }
+
+a.logo, a:visited.logo {
+  color: #e0e0e0;
+}
+
+.menu-items li {
+  display: inline-block;
+  margin: 0 10px 0 20px;
+}
+
+.show, .hide {
+  display: none;
+  padding-left: 15px;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: center left;
+  color: #dde1e2;
+}
+
+.show img {
+  vertical-align: middle;
+  width: 30px;
+}
+
+.hide img {
+  vertical-align: middle;
+  width: 20px;
 }
 
 .arrow {
@@ -91,12 +114,40 @@ header p {
   right: 49.5%;
 }
 
+/* Header */
+
+.content {
+  position: relative;
+  height: 680px;
+  background: url("../img/hero.png") center;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.content p {
+  color: white;
+  margin: 0 auto;
+  font-size: 18px;
+  font-weight: 300;
+  width: 50%;
+}
+
+.description {
+  width: 90%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding-top: 100px;
+  min-height: 250px;
+  text-align: center;
+}
+
 /*About us*/
 
-.about-us { margin: 100px 0; }
-.about-us img { width: 60px; }
+.nosotros { margin: 100px 0; }
+.nosotros img { width: 60px; }
 
-.about-us p {
+.nosotros p {
   font-weight: 300;
   margin: 0 auto;
   width: 45%;
@@ -104,24 +155,25 @@ header p {
 
 /*How it works*/
 
-.how-it-works {
-  background: url("../img/about-us.jpg") center no-repeat;
+.como-funciona {
+  background: url("../img/about-us.jpg") center;
   padding: 100px 0;
   background-attachment: fixed;
   background-position: center;
+  background-size: cover;
 }
 
 /*Services*/
 
-.services {
+.servicios {
   display: inline-block;
   margin: 90px auto;
   width: 80%;
 }
 
-.services p { font-weight: 300; }
-.services img { width: 60px; }
-.services h2 { font-size: 18px; }
+.servicios p { font-weight: 300; }
+.servicios img { width: 60px; }
+.servicios h2 { font-size: 18px; }
 
 .event-item {
   float: left;
@@ -133,35 +185,25 @@ header p {
   width: 70%;
 }
 
-/*Pictures*/
-
-/*.pictures {
-  margin-bottom: 100px;
-  display: inline-block;
-}
-
-.pictures img { margin-right: 15px; }
-
-.pictures .line-separator { margin: 70px auto; }*/
-
 /*Beers*/
 
-.beers {
-  background: url("../img/about-us2.jpg") center no-repeat;
+.cervezas {
+  background: url("../img/beer-bg.jpg") center;
   padding-bottom: 100px;
   background-attachment: fixed;
   background-position: center;
+  background-size: cover;
   display: inline-block;
   width: 100%;
 }
 
-.beers img {
-  width: 50%;
+.cervezas img {
+  display: inline-block;
   margin: 0 auto;
-  display: block;
+  width: 20%;
 }
 
-.beers h2 {
+.cervezas h2 {
   color: white;
   padding: 130px 0 50px 0;
 }
@@ -169,9 +211,11 @@ header p {
 /*Footer*/
 
 footer { font-weight: 300; }
+
 footer p {
   font-size: 20px;
   margin: 0;
+  padding: 0 30px;
 }
 
 .social-icons {
@@ -201,4 +245,75 @@ footer p {
 .bottom-bar a::after {
   content: "|";
   padding: 0 10px;
+}
+
+/*Media queries*/
+
+@media only screen and (max-width: 800px) {
+  .menu {
+    position: relative;
+    width: 100%;
+  }
+
+  .logo {
+    position: absolute;
+    top: 0;
+    left: 15px;
+    margin-left: 0px;
+  }
+
+  .menu-items {
+    display: none;
+    width: 100%;
+    margin-top: 80px;
+    opacity: 0.7;
+    background-color: black;
+  }
+
+  .menu-items li {
+    display: block;
+    text-align: center;
+  }
+
+  .show, .hide {
+    position: absolute;
+    top: 0;
+    right: 15px;
+  }
+
+  .content h1 {
+    font-size: 35px;
+    margin-top: 130px;
+  }
+
+  .content p { width: 90%; }
+  .nosotros p, .event-item p { width: 80%; }
+
+  .event-item {
+    float: none;
+    width: 100%;
+  }
+
+  .cervezas img {
+    width: 50%;
+    display: block;
+  }
+
+  .cervezas h2 { padding: 100px 20px 50px 20px}
+
+  .event-item:first-of-type { margin-bottom: 50px; }
+
+  .show { display: inline-block; }
+  .hide { display: none; }
+
+  #menu:target .show { display: none; }
+  #menu:target .hide, #menu:target .menu-items {
+    display: inline-block;
+  }
+}
+
+@media only screen and (max-width: 220px) {
+  .logo, .show, .hide {
+    font-size: 14px;
+  }
 }

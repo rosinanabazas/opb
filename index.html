@@ -17,32 +17,39 @@
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     </head>
     <body>
-        <header>
-          <nav>
+      <header>
+        <nav class="fixed-nav-bar">
+          <div id="menu" class="menu">
             <a class="logo" href="/"><img src="img/opb-logo.svg"></a>
-            <div class="nav-links">
-              <a href="#contacto">Contacto</a>
-              <a href="#cervezas">Nuestras cervezas</a>
-              <a href="#servicios">Servicios</a>
-              <a href="#como-funciona">Como funciona</a>
-              <a href="#nosotros">Nosotros</a>
-            </div>
-          </nav>
-          <h1>Orientales,<br> la patria y la birra</h1>
-          <p>Brindando por nuestro himno nacional, hemos decidido darle un vuelco a la historia para convertirla en una celebración, y qué mejor que con birras.</p>
-          <img class="arrow" src="img/arrow.svg">
-        </header>
+            <a class="show" href="#menu"><img src="img/menu.svg"></a><a class="hide" href="#hidemenu"><img src="img/close.svg"></a>
+            <ul class="menu-items">
+              <li><a href="#nosotros">Nosotros</a></li>
+              <li><a href="#como-funciona">Como Funciona</a></li>
+              <li><a href="#servicios">Servicios</a></li>
+              <li><a href="#cervezas">Cervezas</a></li>
+              <li><a href="#contacto">Contacto</a></li>
+            </ul>
+          </div>
+        </nav>
+        <section class="content">
+          <div class="description">
+            <h1>Orientales,<br> la patria y la birra</h1>
+            <p>Brindando por nuestro himno nacional, hemos decidido darle un vuelco a la historia para convertirla en una celebración, y qué mejor que con birras.</p>
+            <img class="arrow" src="img/arrow.svg">
+          </div>
+        </section>
+      </header>
         <main>
-          <section class="about-us" id="#nosotros">
+          <section class="nosotros" id="nosotros">
             <img src="img/icon2.png">
             <div class="line-separator"></div>
             <h2>Beertruck Inteligente</h2>
             <p> OPB nace con la iniciativa de promocionar y enaltecer la producción de la cerveza uruguaya. Es entonces que tomamos la decisión de hacer el primer Beer Truck inteligente equipado con un sistema innovador de tarjetas magnéticas RFID, en el cuál podrás servirte todas nuestras variedades de cervezas cuantas veces quieras.</p>
           </section>
-          <section class="how-it-works" id="como-funciona">
+          <section class="como-funciona" id="como-funciona">
             <iframe src="https://player.vimeo.com/video/107105609" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           </section>
-          <section class="services" id="servicios">
+          <section class="servicios" id="servicios">
             <div class="event-item">
               <img src="img/icon3.png">
               <h2>Eventos privados</h2>
@@ -54,32 +61,28 @@
               <p>Estaremos en las más reconocidas ferias gastronómicas y puntos estratégicos por TODO el país. Anunciaremos a través de nuestras redes sociales los puntos de venta dónde nos podrán encontrar.</p>
             </div>
           </section>
-          <!-- <section class="pictures">
-            <div class="line-separator"></div>
-            <img src="img/1.png">
-            <img src="img/2.png">
-            <img src="img/3.png">
-          </section> -->
-          <section class="beers" id="cervezas">
+          <section class="cervezas" id="cervezas">
             <h2>Nuestras cervezas</h2>
-            <img src="img/beers-new.svg">
+            <img src="img/beers-1.svg">
+            <img src="img/beers-2.svg">
+            <img src="img/beers-3.svg">
           </section>
-          <footer id="contacto">
-            <div class="social-icons">
-              <p>¡Brindamos por ustedes, por nosotros y por la Birra!</p>
-              <p class="small">"Si la birra me llama, aquí estoy yo..."</p>
-              <a class="icons" href="https://www.facebook.com/beertruckopb/"><img src="img/fb.svg"></a>
-              <a class="icons" href="https://twitter.com/beertruckopb"><img src="img/tw.svg"></a>
-              <a class="icons" href="https://www.instagram.com/beertruckopb/"><img src="img/ig.svg"></a>
-              <a class="icons" href="mailto:info@opb.com.uy"><img src="img/mail.svg"></a>
-            </div>
-            <div class="bottom-bar">
-              <p>Contacto: </p>
-              <a href="tel:091369096">091 36 90 96</a>
-              <p>Alvaro de León</p>
-            </div>
-          </footer>
         </main>
+        <footer id="contacto">
+          <div class="social-icons">
+            <p>¡Brindamos por ustedes, por nosotros y por la Birra!</p>
+            <p class="small">"Si la birra me llama, aquí estoy yo..."</p>
+            <a class="icons" href="https://www.facebook.com/beertruckopb/"><img src="img/fb.svg"></a>
+            <a class="icons" href="https://twitter.com/beertruckopb"><img src="img/tw.svg"></a>
+            <a class="icons" href="https://www.instagram.com/beertruckopb/"><img src="img/ig.svg"></a>
+            <a class="icons" href="mailto:info@opb.com.uy"><img src="img/mail.svg"></a>
+          </div>
+          <div class="bottom-bar">
+            <p>Contacto: </p>
+            <a href="tel:091369096">091 36 90 96</a>
+            <p>Alvaro de León</p>
+          </div>
+        </footer>
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
@@ -95,11 +98,5 @@
             ga('create','UA-XXXXX-X','auto');ga('send','pageview');
         </script>
         <!-- <script src="jquery.js"></script> -->
-        <script src="js/vendor/jquery.sticky.js"></script>
-        <script>
-          $(document).ready(function(){
-            $("#sticker").sticky({topSpacing:0});
-          });
-        </script>
     </body>
 </html>
