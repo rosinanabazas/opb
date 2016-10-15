@@ -240,7 +240,10 @@ footer p {
   color: #4D4B4B;
   display: inline-block;
   line-height: 40px;
+  padding: 0;
 }
+
+.bottom-bar p:first-of-type { padding-right: 10px; }
 
 .bottom-bar a::after {
   content: "|";
