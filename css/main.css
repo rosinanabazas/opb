@@ -165,6 +165,10 @@ a.logo, a:visited.logo {
 
 .como-funciona p { color: white; }
 
+.como-funciona img {
+  width: 50%;
+  margin: 0 auto;
+}
 /*Services*/
 
 .servicios {
@@ -196,7 +200,6 @@ a.logo, a:visited.logo {
 .mision-vision .line-separator {
   margin: 20px auto 30px auto;
 }
-
 
 .mision-vision p {
   width: 50%;
@@ -334,6 +337,10 @@ footer p {
   #menu:target .show { display: none; }
   #menu:target .hide, #menu:target .menu-items {
     display: inline-block;
+  }
+
+  .como-funciona img {
+    width: 80%;
   }
 }
 
