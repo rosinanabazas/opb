@@ -23,7 +23,7 @@ h1, h2 {
 h1 {
   color: white;
   font-size: 4rem;
-  margin: 225px 0 10px 0;
+  margin: 180px 0 10px 0;
 }
 
 h2 { font-size: 2rem; }
@@ -163,6 +163,8 @@ a.logo, a:visited.logo {
   background-size: cover;
 }
 
+.como-funciona p { color: white; }
+
 /*Services*/
 
 .servicios {
@@ -183,6 +185,26 @@ a.logo, a:visited.logo {
 .event-item p {
   margin: 0 auto;
   width: 70%;
+}
+
+/*Mision vision*/
+
+.mision-vision {
+  padding: 100px 0;
+}
+
+.mision-vision .line-separator {
+  margin: 20px auto 30px auto;
+}
+
+
+.mision-vision p {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.mision-vision p:first-of-type {
+  margin-bottom: 60px;
 }
 
 /*Beers*/
