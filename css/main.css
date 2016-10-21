@@ -202,6 +202,7 @@ a.logo, a:visited.logo {
 }
 
 .mision-vision p {
+  font-weight: 300;
   width: 50%;
   margin: 0 auto;
 }
@@ -309,13 +310,15 @@ footer p {
     right: 15px;
   }
 
+  .show { display: inline-block; }
+  .hide { display: none; }
+
   .content h1 {
     font-size: 35px;
     margin-top: 130px;
   }
 
-  .content p { width: 90%; }
-  .nosotros p, .event-item p { width: 80%; }
+  .nosotros p, .event-item p, .mision-vision p, .content p { width: 90%; }
 
   .event-item {
     float: none;
@@ -326,21 +329,18 @@ footer p {
     width: 50%;
     display: block;
   }
+  .como-funciona img { width: 80%; }
 
   .cervezas h2 { padding: 100px 20px 50px 20px}
 
   .event-item:first-of-type { margin-bottom: 50px; }
 
-  .show { display: inline-block; }
-  .hide { display: none; }
-
-  #menu:target .show { display: none; }
+  #menu:target .show {
+    display: none;
+  }
+  
   #menu:target .hide, #menu:target .menu-items {
     display: inline-block;
-  }
-
-  .como-funciona img {
-    width: 80%;
   }
 }
 
