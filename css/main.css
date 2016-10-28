@@ -320,6 +320,11 @@ footer p {
 
   .nosotros p, .event-item p, .mision-vision p, .content p { width: 90%; }
 
+  iframe {
+    width: 90%;
+    height: 315px;
+  }
+
   .event-item {
     float: none;
     width: 100%;
@@ -338,7 +343,7 @@ footer p {
   #menu:target .show {
     display: none;
   }
-  
+
   #menu:target .hide, #menu:target .menu-items {
     display: inline-block;
   }
