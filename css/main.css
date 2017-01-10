@@ -23,7 +23,7 @@ h1, h2 {
 h1 {
   color: white;
   font-size: 4rem;
-  margin: 180px 0 10px 0;
+  margin: 160px 0 10px 0;
 }
 
 h2 { font-size: 2rem; }
@@ -119,7 +119,7 @@ a.logo, a:visited.logo {
 .content {
   position: relative;
   height: 680px;
-  background: url("../img/hero.png") center;
+  background: url("../img/hero.jpg") center;
   background-size: cover;
   background-attachment: fixed;
   text-align: center;
@@ -130,7 +130,7 @@ a.logo, a:visited.logo {
   margin: 0 auto;
   font-size: 18px;
   font-weight: 300;
-  width: 50%;
+  width: 57%;
 }
 
 .description {
@@ -162,6 +162,8 @@ a.logo, a:visited.logo {
   background-position: center;
   background-size: cover;
 }
+
+iframe:first-of-type { margin-bottom: 50px; }
 
 .como-funciona p { color: white; }
 
@@ -208,8 +210,19 @@ a.logo, a:visited.logo {
 }
 
 .mision-vision p:first-of-type {
-  margin-bottom: 60px;
+  margin-bottom: 90px;
 }
+
+.img-separator {
+  background: url("../img/img-separator.jpg") center;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  display: inline-block;
+  height: 590px;
+  width: 100%;
+}
+
 
 /*Beers*/
 
