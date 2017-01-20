@@ -223,10 +223,9 @@ iframe:first-of-type { margin-bottom: 50px; }
   width: 100%;
 }
 
-
 /*Beers*/
 
-.cervezas {
+.beers {
   background: url("../img/beer-bg.jpg") center;
   padding-bottom: 100px;
   background-attachment: fixed;
@@ -236,13 +235,63 @@ iframe:first-of-type { margin-bottom: 50px; }
   width: 100%;
 }
 
-.cervezas img {
-  display: inline-block;
-  margin: 0 auto;
-  width: 20%;
+.beers li {
+  margin-top: 35px;
+  list-style: none;
+  font-weight: 300;
 }
 
-.cervezas h2 {
+.beer-description {
+  color: #c5c3c3;
+  display: block;
+  font-size: 14px;
+}
+
+.beer-type {
+  color: white;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.brand-container {
+  margin: 0 auto;
+  width: 57%
+}
+
+.brand {
+  float: left;
+  text-align: center;
+  width: 100px;
+  margin-right: 20px;
+}
+
+.brand p {
+  color: #646262;
+  margin-top: 0;
+}
+
+.brand-logo {
+  background-color: white;
+  height: 90px;
+  margin-top: 30px;
+  width: 90px;
+  border-radius: 100px;
+}
+
+.brand-logo img {
+  width: 70px;
+  height: 70px;
+  margin-top: 10px;
+}
+
+.brand h3 {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.beers h2 {
   color: white;
   padding: 130px 0 50px 0;
 }
@@ -343,13 +392,13 @@ footer p {
     width: 100%;
   }
 
-  .cervezas img {
+  .beers img {
     width: 50%;
     display: block;
   }
   .como-funciona img { width: 80%; }
 
-  .cervezas h2 { padding: 100px 20px 50px 20px}
+  .beers h2 { padding: 100px 20px 50px 20px}
 
   .event-item:first-of-type { margin-bottom: 50px; }
 
