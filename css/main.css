@@ -218,7 +218,6 @@ iframe:first-of-type { margin-bottom: 50px; }
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
-  display: inline-block;
   height: 590px;
   width: 100%;
 }
@@ -235,10 +234,17 @@ iframe:first-of-type { margin-bottom: 50px; }
   width: 100%;
 }
 
+.beers ul { padding: 0 100px; }
+
 .beers li {
+  display: inline-block;
   margin-top: 35px;
   list-style: none;
   font-weight: 300;
+  vertical-align: top;
+  padding: 10px;
+  width: 15%;
+
 }
 
 .beer-description {
@@ -251,6 +257,7 @@ iframe:first-of-type { margin-bottom: 50px; }
   color: white;
   font-size: 22px;
   font-weight: 400;
+  margin-bottom: 20px;
 }
 
 .brand-container {
@@ -391,11 +398,6 @@ footer p {
     float: none;
     width: 100%;
   }
-
-  .beers img {
-    width: 50%;
-    display: block;
-  }
   .como-funciona img { width: 80%; }
 
   .beers h2 { padding: 100px 20px 50px 20px}
@@ -409,6 +411,11 @@ footer p {
   #menu:target .hide, #menu:target .menu-items {
     display: inline-block;
   }
+
+  .brand-container { width: 25%; }
+
+  .beers ul { padding: 0; }
+  .beers li { width: 80%; }
 }
 
 @media only screen and (max-width: 220px) {
