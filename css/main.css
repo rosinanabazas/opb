@@ -213,15 +213,6 @@ iframe:first-of-type { margin-bottom: 50px; }
   margin-bottom: 90px;
 }
 
-.img-separator {
-  background: url("../img/img-separator.jpg") center;
-  background-attachment: fixed;
-  background-position: center;
-  background-size: cover;
-  height: 590px;
-  width: 100%;
-}
-
 /*Beers*/
 
 .beers {
@@ -314,8 +305,12 @@ footer p {
 }
 
 .social-icons {
-  background-color: #333333;
-  color: #9B9B9B;
+  background: url("../img/img-separator.jpg") center;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  color: #fff;
   padding: 100px 0;
 }
 
@@ -327,12 +322,11 @@ footer p {
 
 .bottom-bar {
   background-color: #2E2E2E;
-  height: 40px;
   padding: 12px 0;
 }
 
 .bottom-bar a, .bottom-bar p {
-  color: #4D4B4B;
+  color: #7c7a7a;
   display: inline-block;
   line-height: 40px;
   padding: 0;
@@ -412,7 +406,8 @@ footer p {
     display: inline-block;
   }
 
-  .brand-container { width: 25%; }
+  .brand-container { width: 95%; }
+  .brand { width: 125px; }
 
   .beers ul { padding: 0; }
   .beers li { width: 80%; }
