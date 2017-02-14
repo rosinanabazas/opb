@@ -235,7 +235,6 @@ iframe:first-of-type { margin-bottom: 50px; }
   vertical-align: top;
   padding: 10px;
   width: 15%;
-
 }
 
 .beer-description {
@@ -256,37 +255,23 @@ iframe:first-of-type { margin-bottom: 50px; }
   width: 57%
 }
 
-.brand {
-  float: left;
-  text-align: center;
-  width: 100px;
-  margin-right: 20px;
+.beer-wrapper {
+  border-radius:25px;
+  width: 80%;
+  margin:  auto;
+  padding: 5%;
+  position: relative;
 }
 
-.brand p {
-  color: #646262;
-  margin-top: 0;
-}
-
-.brand-logo {
-  background-color: white;
-  height: 90px;
-  margin-top: 30px;
-  width: 90px;
-  border-radius: 100px;
-}
-
-.brand-logo img {
-  width: 70px;
-  height: 70px;
-  margin-top: 10px;
-}
-
-.brand h3 {
-  color: white;
-  font-size: 20px;
-  font-weight: 400;
-  margin-bottom: 0;
+.img-products {
+  width: 150px;
+  height: 150;
+  margin-top: 1em;
+  margin-left: 1.7em;
+  border-radius: 150px;
+  border: 6px solid #D6D6C2;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
 }
 
 .beers h2 {
@@ -381,6 +366,10 @@ footer p {
     margin-top: 130px;
   }
 
+  .beers li { width: 100%; }
+
+  .img-products { width: 110px; }
+
   .nosotros p, .event-item p, .mision-vision p, .content p { width: 90%; }
 
   iframe {
@@ -405,12 +394,6 @@ footer p {
   #menu:target .hide, #menu:target .menu-items {
     display: inline-block;
   }
-
-  .brand-container { width: 95%; }
-  .brand { width: 125px; }
-
-  .beers ul { padding: 0; }
-  .beers li { width: 80%; }
 }
 
 @media only screen and (max-width: 220px) {
