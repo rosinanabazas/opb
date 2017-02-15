@@ -243,11 +243,11 @@ iframe:first-of-type { margin-bottom: 50px; }
   font-size: 14px;
 }
 
-.beer-type {
+span.beer-type {
   color: white;
   font-size: 22px;
   font-weight: 400;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .brand-container {
@@ -318,11 +318,6 @@ footer p {
 }
 
 .bottom-bar p:first-of-type { padding-right: 10px; }
-
-.bottom-bar a::after {
-  content: "|";
-  padding: 0 10px;
-}
 
 /*Media queries*/
 
