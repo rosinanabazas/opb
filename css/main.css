@@ -213,6 +213,22 @@ iframe:first-of-type { margin-bottom: 50px; }
   margin-bottom: 90px;
 }
 
+.img-separator {
+  background: url("../img/img-separator.jpg") center;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+}
+
+/*Gallery*/
+
+.gallery {
+  max-width: 85%;
+  margin: 0 auto 135px;
+  text-align: left;
+}
+
 /*Beers*/
 
 .beers {
@@ -243,11 +259,11 @@ iframe:first-of-type { margin-bottom: 50px; }
   font-size: 14px;
 }
 
-.beer-type {
+span.beer-type {
   color: white;
   font-size: 22px;
   font-weight: 400;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .brand-container {
@@ -318,11 +334,6 @@ footer p {
 }
 
 .bottom-bar p:first-of-type { padding-right: 10px; }
-
-.bottom-bar a::after {
-  content: "|";
-  padding: 0 10px;
-}
 
 /*Media queries*/
 
