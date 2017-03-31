@@ -171,6 +171,9 @@ iframe:first-of-type { margin-bottom: 50px; }
   width: 50%;
   margin: 0 auto;
 }
+
+.como-funciona h2 { display: none; }
+
 /*Services*/
 
 .servicios {
@@ -226,7 +229,6 @@ iframe:first-of-type { margin-bottom: 50px; }
 .gallery {
   max-width: 85%;
   margin: 0 auto 135px;
-  text-align: left;
 }
 
 /*Beers*/
